@@ -1,0 +1,1 @@
+Atividades com o intuito de aprender lógica de programação e também a sintaxe da linguagem de programação PYTHON
